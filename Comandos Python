@@ -1,0 +1,4 @@
+pip install django = instala o django.
+pip freeze > requirements.txt = cria um arquivo txt com as versões dos programas compostos instalados.
+
+python manage.py runserver = Executa o servidor local.
